@@ -1,5 +1,5 @@
 body {
-    background-image: url("images.coffeechill.jpg");
+    background-image: url("images/coffeechill.jpg");
     background-color: whitesmoke;
     height: auto;
     background-position: center;
@@ -10,10 +10,12 @@ body {
 h1, p, li {
     color: white;
     font-family: Optima, sans-serif;
-          
+    text-align: center;
 }
 p
 ul
 li
-img
+img {
+    align-content: center;
+}
 #slogan
