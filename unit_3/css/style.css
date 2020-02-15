@@ -1,20 +1,17 @@
 body {
     background-image: image("css/coffeechill.jpg");
-    background-color: whitesmoke;
     height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
 }
+
 h1, p, li {
     color: white;
     font-family: Optima, sans-serif;
     text-align: center;
 }
-p
-ul
-li
+
 img {
     display: block;
     width: 50%;
@@ -22,4 +19,4 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-#slogan
+
