@@ -1,9 +1,19 @@
-body { 
-	background-image: url("images/coffeechill.jpg");
-	background-color: whitesmoke;
-}
+body {
+    background-image: url("images.coffeechill.jpg");
+    background-color: whitesmoke;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
-h1, p {
-	color: white;
-	font-style: Optima, sans serif;
 }
+h1, p, li {
+    color: white;
+    font-family: Optima, sans-serif;
+          
+}
+p
+ul
+li
+img
+#slogan
