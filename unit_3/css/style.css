@@ -1,5 +1,6 @@
 body {
     background-image: image("css/coffeechill.jpg");
+    background-color: whitesmoke;
     height: auto;
     background-position: center;
     background-repeat: no-repeat;
