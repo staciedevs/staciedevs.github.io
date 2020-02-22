@@ -1,7 +1,3 @@
-<style>
-@import url('https://fonts.googleapis.com/css?family=Lora|Montserrat|Poppins|Raleway&display=swap');
-</style>
-
 body {
     background-image: url("../images/coffeechill.jpg");
     background-color: whitesmoke;
@@ -11,15 +7,9 @@ body {
     background-size: cover;
 }
 
-h1, p {
+h1, p, li {
     color: white;
-    font-family: Montserrat, sans-serif;
-    text-align: center;
-}
-
-li {
-    color: white;
-    font-family: Poppins, sans-serif;
+    font-family: Optima, sans-serif;
     text-align: center;
 }
 
